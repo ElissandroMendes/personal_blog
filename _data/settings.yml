@@ -10,8 +10,8 @@ description: Blog Pessoal de Elissandro Mendes
 author:
   name: Elissandro Mendes
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Elissandro Mendes</strong>
-  bio: <strong>Pessoa desenvolvedora</strong>, apaixonado por Física e Ciências em geral, cientista de dados em formação, entusiasta do aprendizado de máquina. Espaço criado para compartilhar aprendizados, tutorias e opiniões.
+  say-hello: Olá,<br>Eu sou <strong>Elissandro Mendes</strong>
+  bio: <strong>Pessoa desenvolvedora</strong>, apaixonado por Física e Ciências em geral,<strong> Cientista de Dados</strong> em formação, entusiasta do <strong>Aprendizado de Máquina</strong>. Esse espaço foi criado para compartilhar aprendizados, tutorias e opiniões.
 
 #-------------------------------
 # Contact links
