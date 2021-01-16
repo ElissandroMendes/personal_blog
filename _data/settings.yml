@@ -11,15 +11,15 @@ author:
   name: Elissandro Mendes
   image: 01.jpg
   say-hello: Hello, I’m <strong>Elissandro Mendes</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  bio: <strong>Pessoa desenvolvedora</strong>, apaixonado por Física e Ciências em geral, cientista de dados em formação, entusiasta do aprendizado de máquina. Espaço criado para compartilhar aprendizados, tutorias e opiniões.
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+twitter: https://twitter.com/elissandroam/ # Add your Twitter handle
+facebook: https://www.facebook.com/elissandro.mendes/ # Add your Facebook handle
+# dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://www.instagram.com/elissandroam/ # Add your Instagram handle
+# pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -28,7 +28,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: elissandroam # Add instagram username
 
 #-------------------------------
 # Google Analytics
