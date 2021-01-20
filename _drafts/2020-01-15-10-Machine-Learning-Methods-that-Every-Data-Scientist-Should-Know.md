@@ -24,3 +24,6 @@ Os 10 métodos aqui descritos oferecem uma visão geral - e voce poderá aprofun
 8. *Aprendizado por reforço*
 9. *Processamento de linguagem natural*
 10. *Word Embeddings* 
+
+Uma última coisa antes de iniciarmos. Vamos distinguir entre duas categorias de gerais de aprendizagem de máquina: supervisionado e não supervisionado. Aplicamos técnicas de ML supervisionado quando temos partes da informação que queremos predizer ou explicar. Fazemos isso usando dados de entrada e saída previamente conhecidos para predizer a resposta para novos dados de entrada. Por exemplo, podemos usar técnicas supervisionadas para ajudar um serviço a predizer quantos uduário irão se inscrever nele no mês que vem. Já no aprendizado não supervisionado buscamos maneira de relacionar e agrupar dados sem o uso de uma variável alvo a ser predita. Em outras palavras, os dados serão avaliados com base em suas características e com base nelas forma-se clusters de itens que são similares entre si. Por exemplo, podemos ajudar um comerciante a agrupar produtos similares sem necessariamente nos preocupar em selecionar que características usar.
+
