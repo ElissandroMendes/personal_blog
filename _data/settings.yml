@@ -11,7 +11,7 @@ author:
   name: Elissandro Mendes
   image: 01.jpg
   say-hello: Olá,<br>Eu sou <strong>Elissandro Mendes</strong>
-  bio: <strong>Pessoa desenvolvedora</strong>, apaixonado por Física e Ciências em geral,<strong> Cientista de Dados</strong> em formação, entusiasta do <strong>Aprendizado de Máquina</strong>. Esse espaço foi criado para compartilhar aprendizados, tutorias e opiniões.
+  bio: <strong>Pessoa desenvolvedora</strong>, com formação e paixão por Física e Ciências em geral,<strong> Cientista de Dados</strong> em formação, entusiasta do <strong>Aprendizado de Máquina</strong>. Esse espaço foi criado para compartilhar aprendizados, tutoriais e opiniões.
 
 #-------------------------------
 # Contact links
@@ -23,11 +23,11 @@ instagram: https://www.instagram.com/elissandroam/ # Add your Instagram handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: elissandromendes
 
 #-------------------------------
 # Instagram Feed
-instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 instagram-profile: elissandroam # Add instagram username
 
 #-------------------------------
